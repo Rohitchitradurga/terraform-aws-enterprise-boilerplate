@@ -98,6 +98,3 @@ The project includes a GitHub Actions workflow `.github/workflows/terraform.yaml
 - **State Management**: Uses remote backend (S3 + DynamoDB) to ensure state file security and locking (configuration to be enabled in `main.tf`).
 - **Encryption**: All data at rest (S3, Logs) is encrypted via KMS.
 - **Networking**: Application logic sits in private subnets; only load balancers (not included in boilerplate yet) or NAT Gateways reside in public subnets.
-
-## 📄 License
-MIT License
