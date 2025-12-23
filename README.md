@@ -4,7 +4,7 @@
 
 A production-ready Reference Architecture and Modular Terraform Boilerplate for building secure, scalable, and compliant AWS environments. This project demonstrates enterprise best practices for Infrastructure as Code (IaC), security, networking, and CI/CD.
 
-## 🚀 Features
+##  Features
 
 - **Modular Architecture**: Reusable, standalone modules for Network, IAM, Logging, and Compute.
 - **Environment Isolation**: Distinct configurations for `dev`, `staging`, and `prod`.
