@@ -1,6 +1,3 @@
-
-[![Terraform Enterprise Pipeline](https://github.com/Rohitchitradurga/terraform-aws-enterprise-boilerplate/actions/workflows/terraform.yaml/badge.svg)](https://github.com/Rohitchitradurga/terraform-aws-enterprise-boilerplate/actions/workflows/terraform.yaml)
-
 A production-ready Reference Architecture and Modular Terraform Boilerplate for building secure, scalable, and compliant AWS environments. This project demonstrates enterprise best practices for Infrastructure as Code (IaC), security, networking, and CI/CD.
 
 ##  Features
