@@ -1,4 +1,3 @@
-# Terraform AWS Enterprise Boilerplate
 
 [![Terraform Enterprise Pipeline](https://github.com/Rohitchitradurga/terraform-aws-enterprise-boilerplate/actions/workflows/terraform.yaml/badge.svg)](https://github.com/Rohitchitradurga/terraform-aws-enterprise-boilerplate/actions/workflows/terraform.yaml)
 
